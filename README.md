@@ -6,4 +6,6 @@ It could be infinity!!!
 
 | Author | Program Name | Price |
 | --- | --- | --- | 
-| Bob Diamond | taxsaleblueprint | $1,497 |
+| Bob Diamond | StarOveragesToday | $1,497 |
+| Bob Diamond | taxsaleblueprint | Unknown |
+| Bob Diamond | Bob Diamond Real Estate | Unknown |
